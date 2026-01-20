@@ -1,0 +1,1 @@
+This repo is an updated fork of the [original repo](https://github.com/mjohnsullivan/flutter-by-example)
